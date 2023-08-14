@@ -1,2 +1,4 @@
 this is line 1 of file2
 this is line 2 of file2
+this is a text file.
+
